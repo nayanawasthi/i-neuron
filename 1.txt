@@ -1,0 +1,36 @@
+1. What is a computer?
+ans A computer is a machine or device that performs processes,
+calculations and operations based on instructions provided by 
+a software or hardware program
+2. De?ne types (classi?cation) of computers? What type of computer
+do you use?
+ans we use pc .It is a single user computer system having a moderately 
+powerful microprocessor. It is termed as a computer that is equipped
+ microprocessor as its CPU.
+3. Give a short history on computers.
+ans The history of computers starts out about 2000 years ago in Babylonia 
+(Mesopotamia), at the birth of the abacus, a wooden rack holding two
+ horizontal wires with beads strung on them
+4. Who is the father of computer?
+ans Charles Babbage is the father of computer
+5. What are the different parts of a computer?
+ans the different parts of a computer is ;
+A motherboard.
+A Central Processing Unit (CPU)
+A Graphics Processing Unit (GPU), also known as a video card.
+Random Access Memory (RAM), also known as volatile memory.
+Storage: Solid State Drive (SSD) or Hard Disk Drive (HDD)
+6. What are functions of a computer?
+ans The 4 Functions of a Computer
+Data input.
+Data processing.
+Information output.
+Data and information storage.
+7. List the components of the CPU
+ans The central processing unit (CPU) consists of six main components:
+control unit (CU)
+arithmetic logic unit (ALU)
+registers.
+cache.
+buses.
+clock.
